@@ -2,3 +2,10 @@ h1{
     background-color: purple;
     color: blue;
 }
+
+h2{
+    background-color: aliceblue;
+    color: blueviolet;
+    text-align: center;
+    text-decoration: underline;
+}
